@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# mypy
+.mypy_cache/
+
+# npm
+node_modules/
+
+# Compiled javascript
+jupyter_britecharts_widget_tutorial/static/
+
+# OS X
+.DS_Store
